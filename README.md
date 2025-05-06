@@ -16,4 +16,6 @@ print("Información estudiantes c:")
 Creo el README.md. <br>
 Creo la estructura del repositorio. <br>
 Cifro la informacion confidencial.
-- **Antonio Navarro**:
+- **Antonio Navarro**:<br>
+Creo el archivo LaTeX<br>
+Desarrolló el proyecto.py<br>
