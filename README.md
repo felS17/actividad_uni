@@ -13,9 +13,9 @@ print("Información estudiantes c:")
 ## Aportes de cada integrante
 
 - **Felipe Schneeberger**: <br>
-Creo el README.md. <br>
-Creo la estructura del repositorio. <br>
-Cifro la informacion confidencial.
+Creo el README.md <br>
+Creo la estructura del repositorio <br>
+Cifro la informacion confidencial
 - **Antonio Navarro**:<br>
 Creo el archivo LaTeX<br>
-Desarrolló el proyecto.py<br>
+Desarrollo el proyecto.py<br>
