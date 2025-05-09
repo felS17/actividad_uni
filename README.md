@@ -20,5 +20,4 @@ Cifro la informacion confidencial
 - **Antonio Navarro**:<br>
 Aporto con el README.md <br>
 Escribio el archivo LaTeX<br>
-Hizo commits y push a los cambios<br>
 Desarrollo el proyecto.py
